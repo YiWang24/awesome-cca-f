@@ -497,7 +497,7 @@ jupyter notebook
 | 资源 | 类型 | 推荐用途 |
 | --- | --- | --- |
 | [Claude Certified Architect Practice](https://www.claudecertifiedarchitect.dev/) | 题库平台 | 大量场景题、模拟考试和分域诊断 |
-| [Claude Certified Architects Prep](https://www.claudecertifiedarchitects.com/) | 课程/题库 | 课程化备考和 full-length practice exam |
+| [Claude Certified Architects Prep](https://www.claudecertifiedarchitects.com/) | 题库平台 | 400+ 道练习题，覆盖五个 domain，含免费诊断和 60 题限时模拟考 |
 | [ClaudeCertified practice questions](https://claudecertified.com/cca-practice-questions) | PDF 题库 | 小规模题库和样题 PDF |
 | [Claude Architect Lab](https://www.anthropiccertifications.com/) | 题库平台 | adaptive practice、mock exam、AI tutor |
 | [Udemy practice exams](https://www.udemy.com/course/claude-certified-architect-foundations-practice-tests-2026/) | 付费课程 | 额外模拟题训练 |
