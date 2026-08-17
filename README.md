@@ -1,3 +1,5 @@
+
+
 [中文版本](README.zh.md)
 
 # Awesome CCA-F
@@ -161,6 +163,8 @@ pip install anthropic python-dotenv jupyter
 export ANTHROPIC_API_KEY="your_api_key_here"
 jupyter notebook
 ```
+
+The notebooks default to local simulations, so the API key is optional.
 
 | Notebook | Domain | Core Example |
 | --- | --- | --- |
