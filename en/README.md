@@ -330,7 +330,7 @@ jupyter notebook
 | [CCA sample questions PDF](https://claudecertified.com/downloads/cca-sample-5q.pdf) | Third-party | Small third-party sample PDF |
 | [Panaversity CCA-F page](https://panaversity.org/certifications/exams/CCA-F) | Third-party | Domain and scenario overview |
 | [Claude Certified Architect Practice](https://www.claudecertifiedarchitect.dev/) | Third-party | Scenario questions and domain diagnostics |
-| [Claude Certified Architects Prep](https://www.claudecertifiedarchitects.com/) | Third-party | Course-based prep and full-length practice exam |
+| [Claude Certified Architects Prep](https://www.claudecertifiedarchitects.com/) | Third-party | 400+ practice questions by domain, free diagnostic, timed 60-question mock |
 | [ClaudeCertified practice questions](https://claudecertified.com/cca-practice-questions) | Third-party | Practice-question PDFs |
 | [Claude Architect Lab](https://www.anthropiccertifications.com/) | Third-party | Adaptive practice, mock exam, and tutor |
 | [Udemy practice exams](https://www.udemy.com/course/claude-certified-architect-foundations-practice-tests-2026/) | Third-party | Paid practice exams |
