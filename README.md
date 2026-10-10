@@ -333,6 +333,7 @@ jupyter notebook
 | [Claude Certified Architects Prep](https://www.claudecertifiedarchitects.com/) | Third-party | 400+ practice questions by domain, free diagnostic, timed 60-question mock |
 | [ClaudeCertified practice questions](https://claudecertified.com/cca-practice-questions) | Third-party | Practice-question PDFs |
 | [Claude Architect Lab](https://www.anthropiccertifications.com/) | Third-party | Adaptive practice, mock exam, and tutor |
+| [Szymon Paluch CCA-F (CCAR-F) practice exam](https://szymonpaluch.com/claude-certified-architect-practice-exam) | Third-party | Free 60-question timed mock with an explanation for every answer, no signup |
 | [Udemy practice exams](https://www.udemy.com/course/claude-certified-architect-foundations-practice-tests-2026/) | Third-party | Paid practice exams |
 | [Udemy 360 questions](https://www.udemy.com/course/claude-certified-architect-foundations-practice-tests-u/) | Third-party | Paid multi-test practice set |
 | [Udemy mock exam with explanation](https://www.udemy.com/course/claude-certified-architect-mock-exam-with-answer-explanation/) | Third-party | Paid mock exam with explanations |

@@ -491,6 +491,7 @@ jupyter notebook
 | [ReadRoost practice questions](https://readroo.st/blog/cca-foundations-practice-questions) | 免费题目 | 补充场景题训练 |
 | [CCA sample questions PDF](https://claudecertified.com/downloads/cca-sample-5q.pdf) | 样题 PDF | 体验第三方样题格式 |
 | [Panaversity CCA-F page](https://panaversity.org/certifications/exams/CCA-F) | 课程页 | 快速查看 domain、场景和备考定位 |
+| [Szymon Paluch CCA-F (CCAR-F) practice exam](https://szymonpaluch.com/claude-certified-architect-practice-exam) | 免费 mock | 60 道原创题，120 分钟限时，每题附解析，无需注册 |
 
 ### 第三方题库与付费课程
 
